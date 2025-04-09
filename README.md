@@ -13,7 +13,10 @@ A simple and clean React-based weather dashboard that allows users to check real
 
 ## 📸 Demo
 
+##Light-Mode
 ![Image](https://github.com/user-attachments/assets/c768c2af-50ba-4fd8-98fd-414d08574f1a)
+
+##Dark-Mode
 ![Image](https://github.com/user-attachments/assets/c5e09fd2-43fc-40a6-8919-1b74f877bdcf)
 
 ## 🛠️ Tech Stack
